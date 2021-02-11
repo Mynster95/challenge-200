@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aRyG2G88KlXRGz7dihedSHy2xMyUI/ISCsyTGWbnQnbsDWqGizKh0WWTx4M3BPXe21M7sfjWqncdY7p9V3fjpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Philip\\source\\repos\\challenge-200\\challenge-200.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Philip\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

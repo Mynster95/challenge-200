@@ -1,0 +1,13 @@
+C:\Users\Philip\source\repos\challenge-200\bin\Debug\netcoreapp3.1\challenge-200.exe
+C:\Users\Philip\source\repos\challenge-200\bin\Debug\netcoreapp3.1\challenge-200.deps.json
+C:\Users\Philip\source\repos\challenge-200\bin\Debug\netcoreapp3.1\challenge-200.runtimeconfig.json
+C:\Users\Philip\source\repos\challenge-200\bin\Debug\netcoreapp3.1\challenge-200.runtimeconfig.dev.json
+C:\Users\Philip\source\repos\challenge-200\bin\Debug\netcoreapp3.1\challenge-200.dll
+C:\Users\Philip\source\repos\challenge-200\bin\Debug\netcoreapp3.1\challenge-200.pdb
+C:\Users\Philip\source\repos\challenge-200\obj\Debug\netcoreapp3.1\challenge-200.csprojAssemblyReference.cache
+C:\Users\Philip\source\repos\challenge-200\obj\Debug\netcoreapp3.1\challenge-200.AssemblyInfoInputs.cache
+C:\Users\Philip\source\repos\challenge-200\obj\Debug\netcoreapp3.1\challenge-200.AssemblyInfo.cs
+C:\Users\Philip\source\repos\challenge-200\obj\Debug\netcoreapp3.1\challenge-200.csproj.CoreCompileInputs.cache
+C:\Users\Philip\source\repos\challenge-200\obj\Debug\netcoreapp3.1\challenge-200.dll
+C:\Users\Philip\source\repos\challenge-200\obj\Debug\netcoreapp3.1\challenge-200.pdb
+C:\Users\Philip\source\repos\challenge-200\obj\Debug\netcoreapp3.1\challenge-200.genruntimeconfig.cache
